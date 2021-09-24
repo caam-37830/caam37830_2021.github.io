@@ -30,7 +30,7 @@ You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
 
-Videos for class material will be pre-recorded, so there won't be a need to tune-in in real time.  Office hours/problem solving sessions will be held over Zoom.
+Sue's office hours will be held in person, and Yian's office hours will be held via zoom.
 
 We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, consider using the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or dual-booting or single-booting some version of Linux.
 
@@ -69,11 +69,8 @@ F: less than 50%<br />
 We reserve the right to curve the grades, but only in a fashion that would improve the grade earned by the stated rubric.
 
 ### Late Work Policy
-Late work generally won't be accepted - please see the above note about how to drop your lowest homework scores.  Groups will be expected to come to a consensus on how to get work done on schedule.
+Late work won't be accepted - however one can drop the lowest homework scores.  Groups will be expected to come to a consensus on how to get work done on schedule.
 
-This is the first time this course is being offered.  If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
-
-In abnormal circumstances, please reach out to the instruction staff for accomodations.  Due to Covid-19, it is anticipated that "abnormal" circumstances may be more common.
 
 ### Collaboration Policy
 
