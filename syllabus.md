@@ -1,6 +1,6 @@
 # Syllabus
 
-Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2020-2021-courses/autumn-2020-stat-37830/)
+Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/autumn-2021-stat-37830/)
 
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
