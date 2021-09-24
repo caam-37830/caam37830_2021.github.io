@@ -3,19 +3,20 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/autumn-2021-stat-37830/)
 
 ## People
-Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
+Instructor:  [Yuehaw Khoo](https://stat.uchicago.edu/people/profile/yuehaw-khoo/). Office Hours TBD.
 
-TA: [Richard Zhu](http://richardzhu.info/about/). PhD student in the Committee on Computational and Applied Mathematics. Office Hours TBD.
+TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics. (Zoom) Office Hours TBD.
 
-TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics.  Office Hours TBD.
+TA: [Sue Parkinson](sueparkinson@uchicago.edu). PhD student in the Committee on Computational and Applied Mathematics. (In person) Office Hours TBD.
+
 
 ## Course Format
 
-This course is scheduled to meet MWF 12:40 PM–1:30 PM.  Due to Covid-19, this course will be held entirely remotely.
+This course is scheduled to meet T/TH 9:30 AM–10:50 PM. 
 
-Videos will be pre-recorded for lectures, and posted to Canvas.  Additionally, any lecture material will be made available on GitHub.  A problem solving session will be held during regular class time (12:40-1:30 PM Central Time) on Fridays in order to address questions related to lecture material.  Some material may be posted without an accompanying video (e.g. self-contained Jupyter notebooks), but videos will be made for anything where a "walkthrough" would add significant value.  You can always request a video if one does not exist and you believe it would be valuable - if several requests are received a video will be made.
+Classes will be in person. Some material (including video) may be posted in extra to lectures to help students in assignments.
 
-Homework will be posted Friday, and due the following Friday.  We plan to have a homework assignment every week.
+Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment almost every week.
 
 There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
 
