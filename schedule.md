@@ -30,7 +30,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html) 
 1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html) 
 2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
-3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)] 
+3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) #[[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)] 
 
 ### Reading
 * [PEP 0020 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/) **Required**
