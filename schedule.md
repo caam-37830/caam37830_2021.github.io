@@ -8,7 +8,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 0. [Basic Bash](https://caam37830.github.io/book/09_computing/basic_bash.html) 
 1. [Install Anaconda Python](https://github.com/caam37830/materials/blob/master/lectures/00/conda.md) 
-2. [Install Jupyter notebooks](https://github.com/caam37830/materials/blob/master/lectures/00/jupyter.ipynb) 
+2. [Install Jupyter notebooks](https://github.com/caam37830-2021/materials/blob/master/lectures/00/jupyter.ipynb) 
 3. [Python Basics](https://caam37830.github.io/book/00_python/basics.html) 
 
 ### Reading
