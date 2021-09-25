@@ -2,7 +2,7 @@
 
 This course follows a T/TH schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
 
-## Day 00 - 9/30
+## Day 00 - 9/27
 ### Class Material
 
 [Slides](https://docs.google.com/presentation/d/1yKtkYVs-V38jRogHXz50ZOSV3YYU7A_5EYGxz2txX8g/edit?usp=sharing) for course introduction (use UChicago login). [[Zoom Recording](https://uchicago.zoom.us/rec/share/2VnbBIv6KuI6R0KOFLu3Z7qsTCHpsPxi3-EbFRBrh53943QQy9vlQ5JdCr_Q0Dav.dLlQZqR394ElBIej) - first 20 min are slides, second 25 min are questions]
@@ -20,7 +20,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * and [A Rebuttal](https://sinews.siam.org/Details-Page/what-kind-of-science-is-computational-science-a-rebuttal) by T. Kolda. **Recommended**
 * [A Science-Based Case for Large-Scale Simulation](https://www.pnnl.gov/scales/docs/volume1_300dpi.pdf) US Department of Energy **Optional**
 
-## Day 01 - 10/2
+## Day 01 - 9/28
 
 ### Homework
 * see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control. [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c213fff-5ce6-46a5-a673-ac4d00de5526)]
