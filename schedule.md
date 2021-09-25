@@ -27,10 +27,10 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 
 ### Class Material
-0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfd8da52-3959-4165-bcb2-ac3e015fdfbb)]
-1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dea7434e-7764-4280-a301-ac3e0164d728)]
-2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=261a9d32-0ae6-4e0b-8894-ac4600f98479)]
-3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)] [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2271ead1-8c05-488f-92aa-ac3a0001d6d2)]
+0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html) 
+1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html) 
+2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
+3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)] 
 
 ### Reading
 * [PEP 0020 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/) **Required**
@@ -41,9 +41,9 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 ### Class Material
 
-0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59fb230c-fba2-4a54-a245-ac46010e661b)]
-1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e8cd2d8-3abf-4de6-a5a5-ac4800fcc75f)]
-2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac287191-648b-44ec-9697-ac4801139a3e)]
+0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
+1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) 
+2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html) 
 
 ### Reading
 * [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
