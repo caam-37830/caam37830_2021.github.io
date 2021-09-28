@@ -34,7 +34,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [PEP 0020 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/) **Required**
 * [PEP 0008 - Style Guide](https://www.python.org/dev/peps/pep-0008) (just skim and read anything interesting) **Required**
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
-* 
+
 
 ## Day 02 - 09/30
 0. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
