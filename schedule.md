@@ -37,9 +37,10 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 
 ## Day 02 - 09/30
-0. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
-1. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) 
+1. [Python Scripts](https://github.com/caam37830-2021/materials/blob/master/lectures/01/script.py) 
 2. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
+3. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e8cd2d8-3abf-4de6-a5a5-ac4800fcc75f)]
+
 
 ### Reading
 * [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
@@ -47,4 +48,9 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 
+## Day 03 - 10/05
+0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd8471ae-78be-4c70-8a2d-ac48015b47c5)]
+1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) [[GitHub repository](https://github.com/caam37830/python-packages)] [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=342b5a77-c18d-44a4-9eb6-ac4b00ea2ac5)]
+2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
 
+### Reading
