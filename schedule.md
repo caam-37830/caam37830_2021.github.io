@@ -39,7 +39,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 ## Day 02 - 09/30
 1. [Python Scripts](https://github.com/caam37830-2021/materials/blob/master/lectures/01/script.py) 
 2. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
-3. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e8cd2d8-3abf-4de6-a5a5-ac4800fcc75f)]
+3. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
 
 
 ### Reading
