@@ -37,10 +37,10 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 
 ## Day 02 - 09/30
-1. [Python Scripts](https://github.com/caam37830-2021/materials/blob/master/lectures/01/script.py) 
-2. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
-3. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
-4. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) 
+0. [Python Scripts](https://github.com/caam37830-2021/materials/blob/master/lectures/01/script.py) 
+1. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
+2. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
+3. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) 
 
 
 
@@ -54,7 +54,8 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 
 ## Day 03 - 10/05
 0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html) 
-2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
+1. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
+2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html) 
 
 
 ### Reading
