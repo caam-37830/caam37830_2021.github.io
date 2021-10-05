@@ -56,7 +56,6 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html) 
 2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
 
-### Reading
 
 ### Reading
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
