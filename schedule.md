@@ -40,17 +40,24 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 1. [Python Scripts](https://github.com/caam37830-2021/materials/blob/master/lectures/01/script.py) 
 2. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
 3. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
+4. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) 
+
 
 
 ### Reading
 * [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
 * [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+
 
 
 ## Day 03 - 10/05
 0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html) 
-1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) 
 2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) 
 
 ### Reading
+
+### Reading
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
