@@ -61,3 +61,17 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 ### Reading
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+
+
+## Day 04 - 10/07
+0. [Convergence](https://caam37830.github.io/book/01_analysis/convergence.html) 
+1. [Root finding](https://caam37830.github.io/book/04_functions/roots.html) 
+2. [Numpy](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html#) 
+
+
+### Reading
+* [Newton's method](https://mathworld.wolfram.com/NewtonsMethod.html) **Required** 
+* [Memory](https://caam37830.github.io/book/02_linear_algebra/memory.html) **Recommended**
+
+
+
