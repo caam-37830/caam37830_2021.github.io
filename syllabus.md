@@ -3,7 +3,7 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/autumn-2021-stat-37830/)
 
 ## People
-Instructor:  [Yuehaw Khoo](https://stat.uchicago.edu/people/profile/yuehaw-khoo/). Office Hours Monday 600pm-730pm (Jones 122A).
+Instructor:  [Yuehaw Khoo](https://stat.uchicago.edu/people/profile/yuehaw-khoo/). Office Hours Tuesday 600pm-730pm (Jones 122A).
 
 TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics. Office Hours Wednesday 5-7pm (Zoom).
 
