@@ -74,4 +74,16 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [Memory](https://caam37830.github.io/book/02_linear_algebra/memory.html) **Recommended**
 
 
+## Day 05 - 10/12
+
+### Class Material
+
+0. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html)
+
+If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
 
