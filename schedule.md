@@ -87,3 +87,16 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
 
+
+
+## Day 06 - 10/14
+
+### Class Material
+
+0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b94668f-da29-4c0b-9598-ac5801542fa2)]
+1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc3ddbc9-110a-46a3-914c-ac58015930cd)]
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
+
+
