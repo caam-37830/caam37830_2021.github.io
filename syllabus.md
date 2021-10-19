@@ -12,7 +12,7 @@ TA: [Sue Parkinson](sueparkinson@uchicago.edu). PhD student in the Committee on 
 
 ## Course Format
 
-This course is scheduled to meet T/TH 9:30 AM–10:50 PM. 
+This course is scheduled to meet T/TH 9:30 AM–10:50 AM. 
 
 Classes will be in person. Some material (including video) may be posted in extra to lectures to help students in assignments.
 
