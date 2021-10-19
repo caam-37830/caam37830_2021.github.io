@@ -100,3 +100,12 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 
+## Day 07 - 10/14
+
+### Class Material
+
+0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+
+Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
+
+
