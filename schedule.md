@@ -100,12 +100,33 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 
-## Day 07 - 10/14
+## Day 07 - 10/19
 
 ### Class Material
 
 0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
 
 Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
+
+
+## Day 08 - 10/21
+
+### Class Material
+
+0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+
+Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
+
+
+
+## Day 09 - 10/26
+
+### Class Material
+
+0. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
+
+### Reading
+* E. Bonabeau [Agent-based modeling: Methods and techniques for simulating human systems (2002)](https://www.pnas.org/content/99/suppl_3/7280) **Recommended**
+
 
 
