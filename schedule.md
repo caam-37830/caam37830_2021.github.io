@@ -124,7 +124,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ### Class Material
 
 0. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
-
+1. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html) 
 ### Reading
 * E. Bonabeau [Agent-based modeling: Methods and techniques for simulating human systems (2002)](https://www.pnas.org/content/99/suppl_3/7280) **Recommended**
 
