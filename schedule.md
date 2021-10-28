@@ -129,4 +129,14 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * E. Bonabeau [Agent-based modeling: Methods and techniques for simulating human systems (2002)](https://www.pnas.org/content/99/suppl_3/7280) **Recommended**
 
 
+## Day 10 - 10/28
+
+### Class Material
+0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html) 
+1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html) 
+
+### Reading
+
+* [SymPy Introduction](https://docs.sympy.org/latest/tutorial/intro.html) **Required** Look around the [documentation](https://docs.sympy.org/latest/index.html) as well.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
