@@ -144,7 +144,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ## Day 11 - 11/02
 
 ### Class Material
-0. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ab7ef06-6f2f-4a28-be28-ac61014c29b9)]
+0. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html) 
 
 ### Reading
 
