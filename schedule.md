@@ -150,6 +150,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+* [Forward difference](https://pages.mtu.edu/~msgocken/ma5630spring2003/lectures/diff/diff/node2.html) **Required**
 
 
 
