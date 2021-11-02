@@ -140,3 +140,17 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * [SymPy Introduction](https://docs.sympy.org/latest/tutorial/intro.html) **Required** Look around the [documentation](https://docs.sympy.org/latest/index.html) as well.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
+
+## Day 11 - 11/02
+
+### Class Material
+0. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ab7ef06-6f2f-4a28-be28-ac61014c29b9)]
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+
+
+
+
