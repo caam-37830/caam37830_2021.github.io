@@ -194,8 +194,6 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ## Day 13-14 - 11/10-11/12
 
 ### Class Material
-
-### Class Material
 0. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
 1. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html) 
 
