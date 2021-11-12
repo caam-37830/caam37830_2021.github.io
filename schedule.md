@@ -171,3 +171,38 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
 
 
+
+
+## Day 12 - 11/04
+
+### Class Material
+0. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html) 
+1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html) 
+
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+
+
+
+
+
+## Day 13-14 - 11/10-11/12
+
+### Class Material
+
+### Class Material
+0. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
+1. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html) 
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+* [SciPy `integrate.solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
+* [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
+
+
