@@ -204,7 +204,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
 
 
-Day 15 - 11/16
+## Day 15 - 11/16
 0. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)  
 1. [Convolutions & FFT](https://caam37830.github.io/book/02_linear_algebra/convolutions.html) 
 
@@ -215,7 +215,7 @@ Day 15 - 11/16
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 311-374 (Image Processing) **Optional**
 
 
-Day 16 - 11/16
+## Day 16 - 11/16
 
 0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
 1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
