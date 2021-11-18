@@ -204,3 +204,22 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
 
 
+Day 15 - 11/16
+0. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)  
+1. [Convolutions & FFT](https://caam37830.github.io/book/02_linear_algebra/convolutions.html) 
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 125-163 (Optimization) **Required** OK to skim over code.
+* [SciPy Optimize Tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html) **Recommended**
+* [FFT Algorithm](https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/home.html) by Cooley and Tukey **Recommended**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 311-374 (Image Processing) **Optional**
+
+
+Day 16 - 11/16
+
+0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
+1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended**
+* [NetworkX Tutorial](https://networkx.org/documentation/stable/tutorial.html) **Recommended**
