@@ -38,8 +38,7 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 
 ## Evaluation
 
-* Weekly homework (50% of final grade, each weighted equally)
-* Group midterm checkpoint (20% of final grade)
+* Weekly homework (70% of final grade, each weighted equally)
 * Group final project/report (30% of final grade)
 
 10% of group work (5% of total grade) will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
